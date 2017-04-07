@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/var/www/RecyclerViewCardView/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/classes-a6c769384084c713c1f94f0f85e78210e42f19a5.jar" />
+    </item>
+    <item
+        jar="/var/www/RecyclerViewCardView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/classes-fb52e50f0c4d1d931cc8673516b8f9ef4a8fd4b7.jar" />
+    </item>
+    <item
+        jar="/var/www/RecyclerViewCardView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/classes-967a2bf920bf408bfc577cb750c6fb38f5792f1b.jar" />
+    </item>
+    <item
+        jar="/var/www/RecyclerViewCardView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-950cc087ad02929250bdedd824e97a8a8a26e3ad.jar" />
+    </item>
+    <item
+        jar="/home/jolabti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-729b54680a5628aa3772589e3b2f71b3ab803170.jar" />
+    </item>
+    <item
+        jar="/var/www/RecyclerViewCardView/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/var/www/RecyclerViewCardView/app/build/intermediates/pre-dexed/debug/classes-e610f03e5089bdd865b21fe40f4f048111c75743.jar" />
+    </item>
+
+</items>
